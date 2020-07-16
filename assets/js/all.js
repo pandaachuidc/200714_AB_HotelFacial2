@@ -1,4 +1,4 @@
-
+"use strict";
 
 $(".s2__facialSlider").slick({
   dots: true,
@@ -9,7 +9,6 @@ $(".s2__facialSlider").slick({
   autoplay: true,
   // autoplaySpeed: 1000,
   adaptiveHeight: true,
-  arrows: false,
+  arrows: false
 });
-
-
+//# sourceMappingURL=all.js.map
